@@ -2,6 +2,6 @@
 
 
  stage('Demo') {
-     echo 'Hello world'
-     sayHello 'Alex'
+     echo 'Hello Devops'
+     sayHello 'Aaku'
  }
